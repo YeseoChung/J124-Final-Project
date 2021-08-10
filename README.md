@@ -7,4 +7,7 @@
 3. Sort "nPBE" column from "Z to A" to find the highest number of personal belief exemptions. <br/>
 _Los Angeles County had the highest number of PBE(Personal belief exemptions) with 29,112._
 
+!['Question1','pivotTable'](/Quetion1_PivotTable.jpg)
 
+**Which county had the highest number of PNB(Permanent medical exemption)?**
+1. 
